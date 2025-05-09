@@ -6,7 +6,7 @@ Built with **React**, **Tailwind CSS**, and **Firebase**.
 
 ## Try it Live
 
-👉 [Click here to use the app](https://your-project-id.web.app)
+👉 [Click here to use the app](https://moodmeter-53a7b.web.app)
 
 > The histogram updates as users select their mood in real time.
 
